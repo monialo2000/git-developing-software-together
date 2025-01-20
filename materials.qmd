@@ -3,9 +3,9 @@ title: "Getting the most of git (and RStudio)"
 editor: visual
 ---
 
-## Why git?
+## Por qué git?
 
-Do you have something like this in your computer?
+Tienes algo parecito a esto en tu computadora?
 
 ```         
 /home/pao/Documents/thesis
